@@ -1,0 +1,21 @@
+# RootsMagic backup files
+tree/**/*.rmbackup
+
+# SQLite artifacts from .rmtree database
+tree/**/*.rmtree-shm
+tree/**/*.rmtree-wal
+tree/**/*.db-shm
+tree/**/*.db-wal
+
+# Working copies of .rmtree files (local, uncommitted)
+tree/working_copies/*.rmtree
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+.Spotlight-V100
+.Trashes
+*com.apple.provenance
+.directory
+ehthumbs.db
