@@ -21,3 +21,4 @@ Active research leads for the Young Family Tree project. Each lead has its own d
 - Findings are recorded with dates
 - Status: `Researching` → `Partial` → `Complete` or `Dead End`
 - Cross-references between leads are noted when agents discover connections
+- Confluence wiki stories (Nov 2012 export) cross-referenced on 21 March 2026 — see "Cross-References from Confluence Wiki" sections in leads 01, 03, 06, 07

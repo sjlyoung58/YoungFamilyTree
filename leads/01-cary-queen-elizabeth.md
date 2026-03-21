@@ -171,3 +171,36 @@ Two visitations covered Northumberland families and may contain the Young pedigr
 - https://archive.org/details/visitationofnort00sainrich
 - https://babel.hathitrust.org/cgi/pt?id=uc1.b000857310
 - https://www.british-history.ac.uk/no-series/newcastle-historical-account/pp611-627
+
+---
+
+## Cross-References from Confluence Wiki (added 2026-03-21)
+
+The Confluence wiki (exported Nov 2012) contains a page `christopher-young-1580est-1650est` with **independent research** that reaches a **different conclusion** about the Cary bride's identity:
+
+### Alternative Identification: The St John / Knollys Route
+
+The wiki traces the wife through: **Catherine Carey → Elizabeth Knollys → Anne Leighton → Barbara or Lucy St John** (b.1618/1621). This is a different branch from the Gemini research (which looks at direct Carey daughters/granddaughters of Sir Edmund or the 3rd Baron).
+
+The wiki identifies Barbara St John or Lucy St John as the most likely candidates — daughters of Anne Leighton and Sir John St John, making them great-granddaughters of Catherine Carey.
+
+### Spencer / Middleton Connection
+
+The wiki's St John route also yields a lateral connection: through Elizabeth Knollys, the family would be related to **Catherine Middleton** (Princess of Wales) and **Lady Diana Spencer**. The Gemini research does not explore this.
+
+### The Boleyns & Tudors Page
+
+A separate wiki page explicitly claims:
+- Mary Boleyn is Great (x14) Grandmother
+- Anne Boleyn is Great (x14) Great Aunt
+- Elizabeth I is 1st Cousin 15 times removed
+- Henry VIII is potentially Great (x14) Grandfather
+
+### Key Discrepancy
+
+| Source | Date | Candidate | Route |
+|--------|------|-----------|-------|
+| Confluence wiki | 2012 | Barbara/Lucy St John | Catherine Carey → Knollys → Leighton → St John |
+| Gemini AI research | 2026 | Daughter of Sir Edmund or 3rd Baron | Henry Carey (1st Baron) → Sir Edmund/3rd Baron → daughter |
+
+Both agree the Hunsdon Carey connection exists. The Visitation PDF and Notes Vol. 3 p. 10 should narrow this.

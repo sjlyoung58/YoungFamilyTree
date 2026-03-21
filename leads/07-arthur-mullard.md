@@ -189,3 +189,21 @@ The family tree's claim that Arthur's mother was related to Hannah Dorothy Mullo
 - [The Goon Show Depository -- Arthur Mullard](https://thegoonshow.co.uk/wiki/index.php?title=Arthur_Mullard)
 - [Arthur Mullard -- Grokipedia](https://grokipedia.com/page/Arthur_Mullard)
 - [Mullard Limited (electronics company) -- Wikipedia](https://en.wikipedia.org/wiki/Mullard)
+
+---
+
+## Cross-References from Confluence Wiki (added 2026-03-21)
+
+The **Chronicles of the Mullord Family** (186K chars, written by Henry Mullord Jr.) in the Confluence wiki provides rich context for Arthur's background:
+
+### The Mullord North London World
+
+The Chronicles document the Mullord family concentrated in **Islington, Hoxton, Shoreditch, and Clerkenwell** — exactly the neighbourhood where Arthur grew up. The family's deep roots in this area (Penn Street factory, Abney Park Cemetery burials, multiple addresses across N1/N5/N7) mean Arthur's performing career emerged from a well-established local dynasty, not from nowhere.
+
+### The Music Hall Connection
+
+**Hannah Dorothy Mullord** (Collins Music Hall star, 1920s–30s) performed at Collins Music Hall, **10–11 Islington Green** — in the heart of Mullord territory. The Chronicles describe the family's proximity to Victorian entertainment: "The Grecian" (Eagle Tavern, City Road) is mentioned as "a Classically brilliant haunt." Arthur's path from the same neighbourhood into showbusiness follows a family pattern, not just individual ambition.
+
+### No Direct Mention
+
+Arthur Ernest Mullord (b. 1910) is **not mentioned by name** in the Chronicles, which were likely written before his fame. The Chronicles focus on the 19th century generations. His autobiography (1977) remains the key source for the direct family connection.

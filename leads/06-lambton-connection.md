@@ -251,3 +251,17 @@ The descent from Thomas Lambton (c.1408) is confirmed by the Inquisition Post Mo
 - [Dorothy Chilton (1730–1806) — WikiTree](https://www.wikitree.com/wiki/Chilton-950)
 - [Lambton family heraldry — Heraldry Wiki](https://www.heraldry-wiki.com/heraldrywiki/index.php?title=Lambton)
 - [Lambton of Belsis — Durham Visitation Pedigree (Alamy image)](https://www.alamy.com/pedigrees-recorded-at-the-visitations-of-the-county-palatine-of-durham-made-by-william-flower-norroy-king-of-arms-in-1575-by-richard-st-george-norroy-king-of-arms-in-1615-and-by-william-dugdale-norroy-king-of-arms-in-1666-204-durham-visitation-pedigrkes-lambt0tt-of-iblsis-armssable-a-fcsse-between-three-lambs-passant-argentcresta-rams-head-cabossed-argent-attired-sa-recorded-i575-1615-and-l666-lambton-of-belsis-richard-lambton-of-lambton-in-the=pbishoprick-i-robert-lanibtonson-and-heir-percival-lambtonelizabeth-da-of-rich-2nd-son-i-ard-clenaulx-of-crofte-t-image336642684.html)
+
+---
+
+## Cross-References from Confluence Wiki (added 2026-03-21)
+
+The wiki page `george-chilton-lambton-young` provides the **personal story** behind the Lambton name entering the Young line:
+
+### The Elopement
+
+**Dorothy Chilton eloped with John Carter in 1750.** She came from a family with a "Lambton mother" described as "a blue blood." After Carter died, Dorothy remarried **Robert Young in 1757**. Their son George Chilton Lambton Young became a minister at Iver Church. All subsequent sons carried "Lambton Chilton" as middle names.
+
+The wiki page for Thomas Chilton Lambton Young confirms he was "son of Robert Young of Chiswick by Dorothy his wife, dau. and heiress of Robert Chilton of Little Chilton in the parish of **Houghton le Spring**, co. Durham." This places the Chilton family in Houghton le Spring — the same Durham parish as Lambton Castle itself.
+
+Our web research confirmed that the "Lambton mother" was **Anne Lambton** (b. 1701), daughter of Ralph Lambton of Lambton Castle. The wiki's family narrative and our genealogical research independently corroborate each other.

@@ -334,3 +334,11 @@ The **COPP Memorial** on Hayling Island was unveiled on 27 September 2012 by **C
 5. **Contact the COPP Survey website** (coppsurvey.uk) — the researchers may have additional unpublished material on Ernest Cooke
 6. **Search Kent County Archives** for specific records of Sheppey/Kingsferry Bridge mining operations
 7. **Search for Robin Harbud** — Ernest's post-war business partner in frozen foods and fellow COPP 1 member
+
+---
+
+## Cross-References from Confluence Wiki (added 2026-03-21)
+
+Ernest married **Lucy Mary Mullord** (5 Sep 1936, Wood Green), connecting him directly to the Mullord family documented in the **Chronicles of the Mullord Family** (186K chars in the Confluence wiki). The database notes on Ernest confirm: "Grandpa was Brooks Sales Manager and the pioneer of quick-frozen foods. He sold these products to top hotels and restaurants like Claridges and Grosvenor." His granddaughter **Jacky Mackenzie** supplied information to the COPP Survey website.
+
+The Slade family pages in the wiki also provide geographic context — **James Christopher Slade** (1871–1958) worked at **Chatham Dockyard**, just across the Medway from the **School of Military Engineering at Brompton** where 262 Field Company RE (Ernest's unit) was based for bridge demolition training. The Slade and Cooke families both had deep roots in the Medway/Thames estuary area.
