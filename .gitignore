@@ -10,6 +10,11 @@ tree/**/*.db-wal
 # Working copies of .rmtree files (local, uncommitted)
 tree/working_copies/*.rmtree
 
+# Webapp
+app/node_modules/
+app/dist/
+app/data/family.db
+
 # OS-specific files
 .DS_Store
 Thumbs.db
